@@ -16,6 +16,7 @@ export default function AppParent() {
         { show && <Message onBtnHide={hideMessage}  txt="message1 from parent" /> }
         <Message txt="message2 from parent"  />
         
+        test for github
         
     </div>
   )
